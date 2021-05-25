@@ -1,0 +1,14 @@
+package enums;
+
+public enum ColoresTinte {
+
+	NEGRO,
+	MORENO,
+	CASTAÑOOSCURO,
+	CASTAÑO,
+	CASTAÑOCLARO,
+	RUBIO,
+	RUBIOCLARO,
+	RUBIOCLARISIMO,
+	RUBIOPLATINADO,
+}
